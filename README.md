@@ -1,35 +1,15 @@
 <h1 align="center">Hi, I'm Salma</h1>
 
 <p align="center">
-  DevOps • Cloud • Software
-</p>
-
-<p align="center">
-  <i>Building systems. Not noise.</i>
+  Software • DevOps • Cloud 
 </p>
 
 ---
 
 ## About
 
-- Apprentice engineer at CEA  
+- Apprentice engineer at CEA Cadarache  
 - Polytech Marseille  
-- DevOps / Cloud / Backend  
-
-Exploring systems, scalability and clean architectures.
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform"/>
-  <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-black?style=flat&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux"/>
-</p>
 
 ---
 
@@ -37,18 +17,25 @@ Exploring systems, scalability and clean architectures.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salma-baba-353aaa200/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://salma2002ba.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-EXPLORE-111111?style=for-the-badge"/>
   </a>
   <a href="mailto:salma2002ba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## Stack
+
 <p align="center">
-  <i>Build smart. Scale quietly.</i>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
