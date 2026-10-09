@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Salma Baba</title>
+  <desc id="d">Ingénieure DevOps et DevSecOps : automatiser, sécuriser, livrer.</desc>
+  <rect width="1200" height="260" rx="18" fill="#0a0a0b"/>
+  <!-- Bande aux couleurs du portfolio -->
+  <rect x="0" y="0" width="400" height="8" fill="#e8397d"/>
+  <rect x="400" y="0" width="400" height="8" fill="#29c282"/>
+  <rect x="800" y="0" width="400" height="8" fill="#3d9fe8"/>
+  <text x="60" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#3de8a0">INGÉNIEURE DEVOPS &amp; DEVSECOPS</text>
+  <text x="60" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f0ede8">Salma Baba<tspan fill="#e8397d">.</tspan></text>
+  <text x="60" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#8b8b94">Automatiser. Sécuriser. Livrer.</text>
+</svg>
